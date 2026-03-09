@@ -3,7 +3,7 @@ import tempfile
 from faster_whisper import WhisperModel
 
 # load once (important for speed)
-model = WhisperModel("base", compute_type="int8")  # low RAM, CPU friendly
+model = WhisperModel("tiny", compute_type="int8")  # low RAM, CPU friendly
 
 
 def transcribe(audio_file):
