@@ -4,7 +4,7 @@ from email.message import EmailMessage
 def send_email(to, subject, body):
 
     sender = "charunyavenkatesan@gmail.com"
-    password = "qohenwhztqhvtfmm"   # Gmail app password
+    password = "xxxxxxxxxxxx"   # Gmail app password
 
     msg = EmailMessage()
     msg["From"] = sender
