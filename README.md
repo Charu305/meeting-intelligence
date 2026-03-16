@@ -273,7 +273,7 @@ docker run -p 8501:8501 \
 
 ## 👩‍💻 Author
 
-**Charu** — Data Science, NLP & Generative AI Engineering
+**Charunya** 
 🔗 [GitHub Profile](https://github.com/Charu305)
 
 ---
